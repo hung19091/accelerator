@@ -6,6 +6,8 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+# URL
+https://hung19091.github.io/skills-github-pages/
 
 # GitHub Pages
 
