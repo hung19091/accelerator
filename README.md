@@ -8,7 +8,7 @@
 -->
 
 # URL
-https://hung19091.github.io/skills-github-pages/
+https://hung19091.github.io/accelerator/
 
 # GitHub Pages
 
