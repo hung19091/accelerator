@@ -7,7 +7,6 @@ baseurl: "/skills-github-pages"
 minima_reboot:
   date_format: "%Y-%m-%d"
   date_format_short: "%m-%d"
-defaults:
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
   -
     scope:
