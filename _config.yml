@@ -2,3 +2,6 @@ remote_theme: aterenin/minima-reboot
 title: first_page
 author: Otsuka Hiro
 description: test
+minima_reboot:
+  date_format: "%Y -%M -%d"
+  date_format_short: "%M -%d"
