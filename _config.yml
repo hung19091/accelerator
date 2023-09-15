@@ -17,3 +17,5 @@ minima_reboot:
             crossorigin="anonymous"
             async="async"
           ></script>
+header_pages:
+- posts.md
