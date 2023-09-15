@@ -7,12 +7,13 @@ minima_reboot:
   date_format_short: "%m-%d"
 url: https://hung19091.github.io
 baseurl: "/skills-github-pages"
-append: |
-  <script
-    repo="hung19091/blog_comment"
-    src="https://utteranc.es/client.js"
-    issue-term="url"
-    theme="github-light"
-    crossorigin="anonymous"
-    async="async"
-  ></script>
+defaults:
+  append: |
+    <script
+      repo="hung19091/blog_comment"
+      src="https://utteranc.es/client.js"
+      issue-term="url"
+      theme="github-light"
+      crossorigin="anonymous"
+      async="async"
+    ></script>
