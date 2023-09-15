@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Posts
+title: 全部文章
 description: Blog posts
 permalink: /posts/
 ---
