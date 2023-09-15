@@ -12,7 +12,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
   -
     scope:
       path: "" # an empty string here means all files in the project
-    values: # 以下配置项也可以在任意页面自定义
-      layout: post
+      type: "pages"
+    values: 
+      layout: "post"
 header_pages:
 - posts.md
