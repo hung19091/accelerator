@@ -7,3 +7,7 @@ minima_reboot:
   date_format_short: "%m-%d"
 header_pages:
 - posts.md
+footer_icons:
+  - username: hung19091/accelerator/
+    url: https://github.com/hung19091/accelerator/
+    icon: icon-github.svg
