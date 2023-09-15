@@ -13,6 +13,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
       path: "" # an empty string here means all files in the project
       type: "posts"
     values: 
-      
+      layout: "post"
 header_pages:
 - posts.md
