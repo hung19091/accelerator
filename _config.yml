@@ -2,8 +2,6 @@ remote_theme: aterenin/minima-reboot
 title: first_page
 author: Otsuka Hiro
 description: test
-url: https://hung19091.github.io
-baseurl: "/skills-github-pages"
 minima_reboot:
   date_format: "%Y-%m-%d"
   date_format_short: "%m-%d"
