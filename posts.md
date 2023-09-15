@@ -3,4 +3,5 @@ layout: allposts
 title: 全部文章
 description: Blog posts
 permalink: /posts/
+color: white
 ---
